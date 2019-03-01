@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  height: 100vh;
+  font-family: "Bitter", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  background-color: #f1f4d8;
+}
+.header {
+  transform: skewY(-10deg);
+  letter-spacing: 3px;
+}
+.divider {
+  max-width: 80%;
+  width: 500px;
+  height: 6px;
+  background-color: #2e6364;
+}
+span#intro > h1 {
+  font-size: 58px;
+  margin: 5px;
+  text-shadow: 0.5px 0.5px #f1f4d8, 1px 1px #f1f4d8, 2px 2px #f1f4d8,
+    2.5px 2.5px #822d2f, 3px 3px #822d2f, 3.5px 3.5px #822d2f, 4px 4px #822d2f,
+    4.5px 4.5px #822d2f, 5px 5px #822d2f, 5.5px 5.5px #822d2f, 6px 6px #822d2f,
+    6.5px 6.5px #822d2f, 7px 7px #822d2f, 7.5px 7.5px #822d2f;
+  color: #2e6364;
+}
+#coming-soon {
+  margin-top: 35px;
+}
+#coming-soon p {
+  font-size: 50px;
+  color: #8d212b;
+  letter-spacing: 6px;
+  text-shadow: 0.5px 0.5px #f1f4d8, 1px 1px #f1f4d8, 2px 2px #f1f4d8,
+    2.5px 2.5px #f1f4d8, 3px 3px #e57c31, 3.5px 3.5px #e57c31, 4px 4px #e57c31,
+    4.5px 4.5px #e57c31, 5px 5px #e57c31, 5.5px 5.5px #e57c31, 6px 6px #e57c31,
+    6.5px 6.5px #e57c31, 7px 7px #e57c31, 7.5px 7.5px #e57c31, 8px 8px #e57c31;
+  margin-top: 10px;
+}
+
+#contact {
+  padding-top: 50px;
+  color: #2f2e64;
+  font-style: 55px;
+}
+#contact a {
+  color: #2f2e64;
+  font-size: 18px;
+  text-decoration: none;
+  padding: 0 7px;
+}
+#contact a:visited {
+  color: #2f2e64;
+}
+#contact a:hover {
+  color: #8d212b;
+}
+.header h2 {
+  color: #2f2e64;
+  /* text-shadow: 0.5px 0.5px #f1f4d8, 1px 1px #f1f4d8, 2px 2px #f1f4d8,
+    2.5px 2.5px #f1f4d8, 3px 3px #63642e, 3.5px 3.5px #63642e, 4px 4px #63642e,
+    4.5px 4.5px #63642e, 5px 5px #63642e, 5.5px 5.5px #63642e, 6px 6px #63642e,
+    6.5px 6.5px #63642e, 7px 7px #63642e, 7.5px 7.5px #63642e, 8px 8px #63642e; */
+}
