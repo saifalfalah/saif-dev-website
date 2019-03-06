@@ -69,3 +69,7 @@ span#intro > h1 {
     4.5px 4.5px #63642e, 5px 5px #63642e, 5.5px 5.5px #63642e, 6px 6px #63642e,
     6.5px 6.5px #63642e, 7px 7px #63642e, 7.5px 7.5px #63642e, 8px 8px #63642e; */
 }
+
+span#small {
+  font-size: 9px;
+}
