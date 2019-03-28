@@ -67,6 +67,48 @@ span#intro > h1 {
   color: #8d212b;
 }
 
+@media (min-width: 576px) {
+  span#intro > h1 {
+    font-size: 42px;
+    letter-spacing: 6px;
+  }
+  #coming-soon p {
+    font-size: 38px;
+    letter-spacing: 6px;
+  }
+  #description > h2 {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 768px) {
+  span#intro > h1 {
+    font-size: 48px;
+    letter-spacing: 5px;
+  }
+  #coming-soon p {
+    font-size: 42px;
+    letter-spacing: 5px;
+  }
+  #description > h2 {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 992px) {
+  span#intro > h1 {
+    font-size: 52px;
+    letter-spacing: 6px;
+  }
+  #coming-soon p {
+    font-size: 45px;
+    letter-spacing: 6px;
+  }
+  #description > h2 {
+    font-size: 18px;
+  }
+}
+
 @media (min-width: 1200px) {
   span#intro > h1 {
     font-size: 58px;
