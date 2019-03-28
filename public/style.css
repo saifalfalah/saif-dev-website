@@ -23,7 +23,7 @@ body {
   background-color: #2e6364;
 }
 span#intro > h1 {
-  font-size: 34px;
+  font-size: 32px;
   margin: 5px;
   text-shadow: 0.5px 0.5px #f1f4d8, 1px 1px #f1f4d8, 2px 2px #f1f4d8,
     2.5px 2.5px #822d2f, 3px 3px #822d2f, 3.5px 3.5px #822d2f, 4px 4px #822d2f,
@@ -37,10 +37,10 @@ span#intro > h1 {
   color: #2f2e64;
 }
 #coming-soon {
-  margin-top: 35px;
+  margin-top: 24px;
 }
 #coming-soon p {
-  font-size: 30px;
+  font-size: 28px;
   color: #8d212b;
   letter-spacing: 2px;
   text-shadow: 0.5px 0.5px #f1f4d8, 1px 1px #f1f4d8, 2px 2px #f1f4d8,
@@ -70,11 +70,11 @@ span#intro > h1 {
 @media (min-width: 576px) {
   span#intro > h1 {
     font-size: 42px;
-    letter-spacing: 6px;
+    letter-spacing: 4px;
   }
   #coming-soon p {
     font-size: 38px;
-    letter-spacing: 6px;
+    letter-spacing: 4px;
   }
   #description > h2 {
     font-size: 16px;
