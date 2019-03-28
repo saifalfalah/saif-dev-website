@@ -66,3 +66,17 @@ span#intro > h1 {
 #contact a:hover {
   color: #8d212b;
 }
+
+@media (min-width: 991px) {
+  span#intro > h1 {
+    font-size: 58px;
+    letter-spacing: 6px;
+  }
+  #coming-soon p {
+    font-size: 50px;
+    letter-spacing: 6px;
+  }
+  #description > h2 {
+    font-size: 20px;
+  }
+}
