@@ -67,7 +67,7 @@ span#intro > h1 {
   color: #8d212b;
 }
 
-@media (min-width: 991px) {
+@media (min-width: 1200px) {
   span#intro > h1 {
     font-size: 58px;
     letter-spacing: 6px;
