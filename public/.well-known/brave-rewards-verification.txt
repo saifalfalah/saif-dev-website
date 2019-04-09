@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: saif.dev
+Token: b18f38082b8176346cb81ddab05793eabb12ff2565f6830edfe86781c97cad71
